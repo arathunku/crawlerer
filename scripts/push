@@ -1,0 +1,1 @@
+scp target/crawler-0.1.0-SNAPSHOT-standalone.jar square@192.168.1.104:/Users/square/src
